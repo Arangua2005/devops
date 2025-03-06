@@ -1,0 +1,3 @@
+Estoy usando vim
+Estoy usando vim
+hola

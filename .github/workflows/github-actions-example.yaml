@@ -3,7 +3,7 @@ run-name: ${{ Github.actor }} is testing out Github Actions
 int: [push]
 jobs: 
     Explore-Github-Actions
-      runs-on: ububnu-latest
+        runs-on: ubuntu-latest
       steps:
         -run: echo "🎉​ The job was automatically triggered by a ${{ github.event.name }} event."
         -run: echo "🐧​ This job is now running on a ${{ runner.os }} server hosted by Github!"

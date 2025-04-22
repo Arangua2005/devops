@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documentos\\TECMILENIO\\4 Semestre\\Operaciones y desarollo\\Visual Studio\\ExploringActions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9CC09C-2D81-4546-9A68-E584BEE8D244}|..\\TestExploringApi\\TestExploringApi.csproj|d:\\documentos\\tecmilenio\\4 semestre\\operaciones y desarollo\\visual studio\\testexploringapi\\weatherforecastcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6230ACAF-CFA6-43D7-8E97-9DBCB873CA22}|ExploringActions.csproj|d:\\documentos\\tecmilenio\\4 semestre\\operaciones y desarollo\\visual studio\\exploringactions\\exploringactions.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6230ACAF-CFA6-43D7-8E97-9DBCB873CA22}|ExploringActions.csproj|solutionrelative:exploringactions.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6230ACAF-CFA6-43D7-8E97-9DBCB873CA22}|ExploringActions.csproj|d:\\documentos\\tecmilenio\\4 semestre\\operaciones y desarollo\\visual studio\\exploringactions\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6230ACAF-CFA6-43D7-8E97-9DBCB873CA22}|ExploringActions.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExploringActions.http",
+              "DocumentMoniker": "D:\\Documentos\\TECMILENIO\\4 Semestre\\Operaciones y desarollo\\Visual Studio\\ExploringActions\\ExploringActions.http",
+              "RelativeDocumentMoniker": "ExploringActions.http",
+              "ToolTip": "D:\\Documentos\\TECMILENIO\\4 Semestre\\Operaciones y desarollo\\Visual Studio\\ExploringActions\\ExploringActions.http",
+              "RelativeToolTip": "ExploringActions.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-11T03:04:23.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastControllerTest.cs",
+              "DocumentMoniker": "D:\\Documentos\\TECMILENIO\\4 Semestre\\Operaciones y desarollo\\Visual Studio\\TestExploringApi\\WeatherForecastControllerTest.cs",
+              "RelativeDocumentMoniker": "..\\TestExploringApi\\WeatherForecastControllerTest.cs",
+              "ToolTip": "D:\\Documentos\\TECMILENIO\\4 Semestre\\Operaciones y desarollo\\Visual Studio\\TestExploringApi\\WeatherForecastControllerTest.cs",
+              "RelativeToolTip": "..\\TestExploringApi\\WeatherForecastControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T23:19:40.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Documentos\\TECMILENIO\\4 Semestre\\Operaciones y desarollo\\Visual Studio\\ExploringActions\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Documentos\\TECMILENIO\\4 Semestre\\Operaciones y desarollo\\Visual Studio\\ExploringActions\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T23:10:42.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
